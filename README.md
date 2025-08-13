@@ -14,7 +14,6 @@ The apis app is deployed and can be accessed at:
 - User registration & login with JWT authentication
 - Create, read, update, delete blog posts
 - Built with **FastAPI** for high performance
-- Easy deployment on **Render**
 
 ---
 
