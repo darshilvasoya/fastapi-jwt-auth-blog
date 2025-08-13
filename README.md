@@ -5,6 +5,11 @@ Users can **register**, **log in**, and perform **CRUD operations** on blog post
 
 ---
 
+## Deployment
+The apis app is deployed and can be accessed at:  
+[https://fastapi-jwt-auth-blog.onrender.com](https://fastapi-jwt-auth-blog.onrender.com/docs)
+
+
 ## Features
 - User registration & login with JWT authentication
 - Create, read, update, delete blog posts
