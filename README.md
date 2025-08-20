@@ -59,3 +59,7 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ### License
 #### This project is licensed under the MIT License.
+
+---
+### Contact
+workmail.darsh@gmail.com
